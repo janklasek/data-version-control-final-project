@@ -1,5 +1,8 @@
-#Installation
-##Installation on Windows
-####Install with choco
-##Install on Windows
-##Install on Linux
+# Installation
+
+Installation on _Windows_
+
+Install with _choco_
+
+
+Install on _Linux_
